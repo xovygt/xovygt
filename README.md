@@ -24,8 +24,9 @@ Düzenle
 ---
 
 ## 🔥 Aktiflik
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xov_433&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xov_433&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xov-433&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
