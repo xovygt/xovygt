@@ -1,5 +1,5 @@
 <h1 align="center">Selam 👋, Ben XOV_433</h1>
-<h3 align="center">Botlar yazıyorum, web siteleri yapıyorum ve Java öğreniyorum ☕</h3>
+<h3 align="center">Botlar yazıyorum, web siteleri yapıyorum ve Java Ve Python öğreniyorum ☕</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -10,7 +10,7 @@
 ## 🌟 Hakkımda
 - 🤖 Eğlencesine ve otomasyon için küçük botlar yazıyorum.
 - 🌐 HTML & CSS ile web siteleri geliştiriyorum.
-- 📚 Java öğrenerek kendimi geliştiriyorum.
+- 📚 Java Ve Python öğrenerek kendimi geliştiriyorum.
 - 🚀 Kendi projelerimi kodlamayı seviyorum, deneme-yanılma benim işim.
 
 ---
