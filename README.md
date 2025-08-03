@@ -12,6 +12,7 @@
 - 🌐 HTML & CSS ile web siteleri geliştiriyorum.
 - 📚 Java Ve Python öğrenerek kendimi geliştiriyorum.
 - 🚀 Kendi projelerimi kodlamayı seviyorum, deneme-yanılma benim işim.
+- 🎁 Linux İşletim Sistemi Üzerinde Çalışıyorum.
 
 ---
 
